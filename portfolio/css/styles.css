@@ -1,9 +1,23 @@
 
 body {
   font-family: 'Lato', sans-serif;
-  color: #676858;
-  font-weight: 300;
+  color: black;
 }
+
+h2 {
+  text-align: center;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 5px solid ;
+  border-color: #2d3c49;
+  margin: 1em 0;
+  padding: 0;
+}
+
 
 .text-muted {
   color: #BCBBBB;
@@ -15,4 +29,30 @@ body {
 
 .title-super {
   font-size: 60px;
+  font-weight: normal;
+  margin-top: 20px;
+}
+
+.customHr {
+  width: 100%
+  font-size: 10px;
+  color: rgba(0, 0, 0, 0);
+  line-height: 6px;
+
+  background-color: #7d97ad;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.title-subhead {
+  color: #7d97ad
+}
+
+.project-title {
+  text-align:center;
+  display:block;
+}
+
+.logo {
+  margin-top: 20px:
 }
