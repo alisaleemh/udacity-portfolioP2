@@ -7,4 +7,4 @@ Instructions
 - `$ git clone https://github.com/alisaleemh/udacity-portfolioP2`
 
 2) Open portfolio/index.html in Browser 
-- `google-chrome index.html`
+- `google-chrome portfolio/index.html`
