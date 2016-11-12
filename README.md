@@ -4,7 +4,7 @@ Instructions
 -----------------
 
 1) Clone Git Repositor
-- `$ git clone https://github.com/p00gz/udacity-fullstack-movie-trailer-website`
+- `$ git clone https://github.com/alisaleemh/udacity-portfolioP2`
 
 2) Open portfolio/index.html in Browser 
 - `google-chrome index.html`
